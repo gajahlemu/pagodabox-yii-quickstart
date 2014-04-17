@@ -5,12 +5,12 @@
 nbproject
 
 # zend studio for eclipse project files
-.buildpath
-.project
-.settings
+#.buildpath
+#.project
+#.settings
 
 # windows thumbnail cache
 Thumbs.db
 
 # Mac DS_Store Files
-.DS_Store
+#.DS_Store
